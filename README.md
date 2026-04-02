@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Sriram! 👋
 
-<!--
-**sriram14062007-glitch/sriram14062007-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning**, **Quantum Computing**, and **Competitive Programming**. Currently based in **Chennai, India**.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages**: Python, Java
+- **ML/AI**: PyTorch, TensorFlow, Scikit-learn, PennyLane
+- **Data**: Jupyter Notebook, Pandas, NumPy
+- **Databases**: SQL, MongoDB
+- **Tools**: Git, Docker, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- 🔬 Developing **Quantum-Classical Hybrid ML models** for real-world applications
+- 📚 Learning **DBMS concepts** and database optimization
+- 🏆 Preparing for **TCS CodeVita** and other competitive programming contests
+- 🔍 Exploring **Quantum Computing** frameworks and applications
+
+## 📊 Featured Project
+**Quantum-Inspired Fault Detection** - A hybrid quantum-classical ML model for power system fault detection achieving **98.5% accuracy**
+- Built with PyTorch, PennyLane, and Scikit-learn
+- Includes comprehensive analysis with loss curves and confusion matrices
+
+## 📈 GitHub Stats
+![GitHub stats](https://img.shields.io/badge/Contributions-15-blue?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-1-green?style=flat-square)
+
+## 🎓 Learning Goals
+- [ ] Master advanced machine learning algorithms
+- [ ] Contribute to open-source quantum computing projects
+- [ ] Build 5+ diverse projects showcasing different tech stacks
+- [ ] Achieve 100+ GitHub contributions this year
+
+## 📞 Let's Connect!
+- 📧 Email: [sriram14062007@gmail.com](mailto:sriram14062007@gmail.com)
+- 🌐 Location: Chennai, Tamil Nadu, India
+- 💼 Open to **internship opportunities** in ML/AI and Quantum Computing
+
+---
+*Last updated: April 2026*
