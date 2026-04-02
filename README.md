@@ -21,6 +21,9 @@ B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning*
 - Built with PyTorch, PennyLane, and Scikit-learn
 - Includes comprehensive analysis with loss curves and confusion matrices
 
+- ## 🌍 Real-World Impact
+This project helps detect faults in electrical power systems early, preventing blackouts, reducing equipment damage, and improving grid reliability using a hybrid quantum-classical machine learning approach.
+
 ## 📈 GitHub Stats
 ![GitHub stats](https://img.shields.io/badge/Contributions-15-blue?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-1-green?style=flat-square)
