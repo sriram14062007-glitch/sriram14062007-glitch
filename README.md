@@ -1,7 +1,7 @@
-# Hi there, I'm Sriram! 👋
+# Hi there, I'm Sriram! 
 
 ## 🚀 About Me
-B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning**, **Quantum Computing**, and **Competitive Programming**. Currently based in **Chennai, India**.
+B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning**, **Quantum Computing**, **Sustainable Technology** and **Competitive Programming**. Currently based in **Chennai, India**.
 
 ## 💻 Tech Stack
 - **Languages**: Python, Java
@@ -25,8 +25,8 @@ B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning*
 This project helps detect faults in electrical power systems early, preventing blackouts, reducing equipment damage, and improving grid reliability using a hybrid quantum-classical machine learning approach.
 
 ## 📈 GitHub Stats
-![GitHub stats](https://img.shields.io/badge/Contributions-15-blue?style=flat-square)
-![Repositories](https://img.shields.io/badge/Repositories-1-green?style=flat-square)
+![GitHub stats](https://img.shields.io/badge/Contributions-32-blue?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-6-green?style=flat-square)
 
 ## 🎓 Learning Goals
 - [ ] Master advanced machine learning algorithms
