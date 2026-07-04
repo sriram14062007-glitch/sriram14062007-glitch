@@ -1,7 +1,7 @@
 # Hi there, I'm Sriram! 
 
 ## 🚀 About Me
-B.Tech AI & Data Science (2nd Year) student passionate about **Machine Learning**, **Quantum Computing**, **Sustainable Technology** and **Competitive Programming**. Currently based in **Chennai, India**.
+B.Tech AI & Data Science (3rd Year) student passionate about **Machine Learning**, **Quantum Computing**, **Sustainable Technology** and **Competitive Programming**. Currently based in **Chennai, India**.
 
 ## 💻 Tech Stack
 - **Languages**: Python, Java
