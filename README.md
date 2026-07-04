@@ -7,8 +7,8 @@ B.Tech AI & Data Science (3rd Year) student passionate about **Machine Learning*
 - **Languages**: Python, Java
 - **ML/AI**: PyTorch, TensorFlow, Scikit-learn, PennyLane
 - **Data**: Jupyter Notebook, Pandas, NumPy
-- **Databases**: SQL, MongoDB
-- **Tools**: Git, Docker, Google Colab
+- **Databases**: MYSQL, MongoDB ,Supabase
+- **Tools**: Git, Docker, Google Colab , PowerBI
 
 ## 🎯 Current Focus
 - 🔬 Developing **Quantum-Classical Hybrid ML models** for real-world applications
